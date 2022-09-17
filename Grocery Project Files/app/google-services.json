@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118043982034",
+    "project_id": "fir-frag-6a4fe",
+    "storage_bucket": "fir-frag-6a4fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118043982034:android:230f7a1244374dd6da550b",
+        "android_client_info": {
+          "package_name": "com.jasmeet.emailvalid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118043982034-nei43tp9fnp7hfblfj10ofk5emi4d9c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jasmeet.emailvalid",
+            "certificate_hash": "c3ff804e6534d40938eccc68965fc3898976ee6c"
+          }
+        },
+        {
+          "client_id": "118043982034-mlarmtd12eo67pemc17hrm1p9ijdm024.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZb6htNRfWzGBOR8cfBlBtnuSFXHzFG28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118043982034-mlarmtd12eo67pemc17hrm1p9ijdm024.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
