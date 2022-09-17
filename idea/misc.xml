@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/drawable/ic_delete.xml" value="0.1" />
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/drawable/no_bg.xml" value="0.1605" />
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/layout/activity_main.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/layout/activity_second.xml" value="0.33" />
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/layout/activity_splash.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/layout/fragment_email_login.xml" value="0.25" />
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/layout/fragment_register.xml" value="0.33" />
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/layout/fragment_success.xml" value="0.33" />
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/layout/grocery_add_dialog.xml" value="0.3513986013986014" />
+        <entry key="..\:/Users/jasmeet singh/Desktop/android programs/Emailvalid/app/src/main/res/layout/grocery_rv_items.xml" value="0.2875536480686695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
